@@ -12,13 +12,13 @@
  5. git clone git... /  git clone -b 分支名 地址 // 克隆分支的代码到本地
  > modify code ...
  6. git status
- 7. git add . /git add <filename>
- 8. git pull origin <branch> / git pull origin <master>
+ 7. git add . /git add `filename`
+ 8. git pull origin `branch` / git pull origin `master`
  > fix conflict ...
- 9. git push origin <branch> / git push origin <master> 
+ 9. git push origin `branch` / git push origin `master` 
  10. git branch / git branch -r //查看分支
- 11. git checkout <branch>
- 12. git merge <branch>
+ 11. git checkout `branch`
+ 12. git merge `branch`
 
 
 
